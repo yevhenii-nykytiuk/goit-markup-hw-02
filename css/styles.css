@@ -1,0 +1,156 @@
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+/* ==================<HEADER>=================== */
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.3;
+  color: #2E2F42;
+  text-transform: uppercase;
+}
+
+.span-logo {
+  color: #4D5AE5;
+}
+
+.menu-link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #2E2F42;
+  line-height: 1.5;
+}
+
+.mail-link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+  line-height: 1.5;
+}
+
+.phone-link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+  line-height: 1.5;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: #4D5AE5;
+}
+
+.mail-link:hover,
+.mail-link:focus {
+  color: #4D5AE5;
+}
+
+.phone-link:hover,
+.phone-link:focus {
+  color: #4D5AE5;
+}
+
+/* ==================</HEADER>=================== */
+
+
+/* =====================<HERO>====================== */
+
+.title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1;
+  background-color: #2E2F42;
+}
+
+.modal-btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #4D5AE5;
+  cursor: pointer;
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+  background-color: #fff;
+  color: #000;
+}
+
+/* =====================</HERO>====================== */
+
+
+
+/* =====================<ABOUT>====================== */
+
+.about-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2E2F42;
+}
+
+.about-content {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+/* =====================</ABOUT>====================== */
+
+/* =====================<GALLERY-MAIN>====================== */
+
+.gallery-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  color: #2E2F42;
+}
+
+/* =====================</GALLERY-MAIN>====================== */
+
+
+/* =====================<GALLERY-MAIN-PERSON>====================== */
+
+.gallery-person-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  color: #2E2F42;
+}
+
+.gallery-person-name {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2E2F42;
+}
+
+
+
+/* =====================</GALLERY-MAIN-PERSON>====================== */
+
+
+/* =====================<BOTTOM-FOOTER>====================== */
+
+
+/* =====================</BOTTOM-FOOTER>====================== */
