@@ -25,7 +25,7 @@
 .menu-link {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
   color: #2E2F42;
   line-height: 1.5;
 }
@@ -69,7 +69,7 @@
 .title {
   font-family: 'Roboto', sans-serif;
   font-size: 56px;
-  font-weight: 700;
+  font-weight: 600;
   color: #fff;
   line-height: 1;
   background-color: #2E2F42;
@@ -78,10 +78,12 @@
 .modal-btn {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
   color: #fff;
   background-color: #4D5AE5;
   cursor: pointer;
+  border: none;
+  
 }
 
 .modal-btn:hover,
@@ -98,7 +100,7 @@
 
 .about-title {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 20px;
   line-height: 1.2;
   color: #2E2F42;
@@ -118,7 +120,7 @@
 
 .gallery-title {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 36px;
   line-height: 1.1;
   color: #2E2F42;
@@ -131,7 +133,7 @@
 
 .gallery-person-title {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 36px;
   line-height: 1.1;
   color: #2E2F42;
@@ -139,7 +141,7 @@
 
 .gallery-person-name {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 20px;
   line-height: 1.2;
   color: #2E2F42;
