@@ -1,68 +1,3 @@
-.list {
-  list-style: none;
-}
-
-.link {
-  text-decoration: none;
-}
-
-/* ==================<HEADER>=================== */
-
-.logo {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 1.3;
-  color: #2E2F42;
-  text-transform: uppercase;
-}
-
-.span-logo {
-  color: #4D5AE5;
-}
-
-.menu-link {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 600;
-  color: #2E2F42;
-  line-height: 1.5;
-}
-
-.mail-link {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  color: #434455;
-  line-height: 1.5;
-}
-
-.phone-link {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  color: #434455;
-  line-height: 1.5;
-}
-
-.menu-link:hover,
-.menu-link:focus {
-  color: #4D5AE5;
-}
-
-.mail-link:hover,
-.mail-link:focus {
-  color: #4D5AE5;
-}
-
-.phone-link:hover,
-.phone-link:focus {
-  color: #4D5AE5;
-}
-
-
-/* ==================</HEADER>=================== */
-
 /* ==================<HERO>=================== */
 
 .menu-btn {
@@ -81,6 +16,10 @@
   color: #fff;
 }
 
+/* ==================</HERO>=================== */
+
+/* ==================<PORTFOLIO>=================== */
+
 .portfolio-title {
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
@@ -97,18 +36,10 @@
   color: #434455;
 }
 
-/* ==================</HERO>=================== */
+/* ==================</PORTFOLIO>=================== */
 
 
 /* ==================<FOOTER>=================== */
-
-.main-content {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #434455;
-}
 
 /* ==================</FOOTER>=================== */
 

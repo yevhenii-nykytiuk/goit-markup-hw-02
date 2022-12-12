@@ -147,12 +147,17 @@
   color: #2E2F42;
 }
 
-
-
 /* =====================</GALLERY-MAIN-PERSON>====================== */
 
 
 /* =====================<BOTTOM-FOOTER>====================== */
 
+.main-content {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
 
 /* =====================</BOTTOM-FOOTER>====================== */
