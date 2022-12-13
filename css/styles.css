@@ -1,3 +1,6 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
 
 .list {
   list-style: none;
@@ -23,9 +26,8 @@
 }
 
 .menu-link {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
   font-weight: 600;
+  font-size: 16px;
   color: #2E2F42;
   line-height: 1.5;
 }
@@ -67,7 +69,6 @@
 /* =====================<HERO>====================== */
 
 .title {
-  font-family: 'Roboto', sans-serif;
   font-size: 56px;
   font-weight: 600;
   color: #fff;
@@ -76,9 +77,8 @@
 }
 
 .modal-btn {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
   font-weight: 600;
+  font-size: 16px;
   color: #fff;
   background-color: #4D5AE5;
   cursor: pointer;
@@ -99,7 +99,6 @@
 /* =====================<ABOUT>====================== */
 
 .about-title {
-  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   font-size: 20px;
   line-height: 1.2;
@@ -119,7 +118,6 @@
 /* =====================<GALLERY-MAIN>====================== */
 
 .gallery-title {
-  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   font-size: 36px;
   line-height: 1.1;
@@ -132,7 +130,6 @@
 /* =====================<GALLERY-MAIN-PERSON>====================== */
 
 .gallery-person-title {
-  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   font-size: 36px;
   line-height: 1.1;
@@ -140,7 +137,6 @@
 }
 
 .gallery-person-name {
-  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   font-size: 20px;
   line-height: 1.2;
